@@ -151,6 +151,10 @@ docker compose down
 
 ---
 
+## youtube refaral link:
+
+https://www.youtube.com/watch?v=B7CwU_tNYIE
+
 ## 🛠 Tech Stack
 
 * Python 3
